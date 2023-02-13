@@ -1,0 +1,22 @@
+{
+  "name": "diginisghts-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkumar161995/DigInisghts-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akkumar161995/DigInisghts-Assignment/issues"
+  },
+  "homepage": "https://github.com/akkumar161995/DigInisghts-Assignment#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
